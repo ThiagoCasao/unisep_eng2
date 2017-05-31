@@ -1,0 +1,2 @@
+class ContaPremium < Conta
+end
