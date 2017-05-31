@@ -1,0 +1,3 @@
+class ContaEstudante < Conta
+
+end
